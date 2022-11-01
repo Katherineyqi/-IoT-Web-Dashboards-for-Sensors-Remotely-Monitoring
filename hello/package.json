@@ -9,7 +9,7 @@
     "chart.js": "^2.9.3",
     "cra-template": "1.0.2",
     "mqtt": "^3.0.0",
-    "node-red-dashboard": "^2.20.0",
+    "node-red-dashboard": "^2.26.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.0",
